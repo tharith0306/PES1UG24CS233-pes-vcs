@@ -1,7 +1,7 @@
 // test_tree.c — Phase 2 test program
 //
 // Compile and run:
-//   make test_tree
+//   make test_tree 
 //   ./test_tree N
 
 #include "pes.h"
