@@ -13,7 +13,7 @@
 // what will go into the next commit) and ATOMIC WRITES (temp+rename).fd
 //fd
 // PROVIDED functions: index_find, index_remove, index_statusfd
-// TODO functions:     index_load, index_save, index_add
+// TODO functions:     index_load, index_save, index_addfd
 
 #include "index.h"
 #include <stdio.h>
