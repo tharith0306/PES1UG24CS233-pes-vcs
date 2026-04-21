@@ -1,6 +1,6 @@
 // tree.h — Tree object interface
 //
-// A tree object represents a directory snapshot. Each entry maps a name
+// A tree object represents a directory snapshot. Each entry maps a name 
 // to either a blob (file) or another tree (subdirectory), along with
 // the file mode (permissions + type).
 
