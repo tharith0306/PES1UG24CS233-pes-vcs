@@ -1,5 +1,5 @@
 // test_objects.c — Phase 1 test program
-//
+//K
 // Compile and run: M
 //   gcc -Wall -Wextra -O2 -o test_objects test_objects.c object.c -lcrypto 
 //   ./test_objects
