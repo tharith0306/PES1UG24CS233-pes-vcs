@@ -2,7 +2,7 @@
 //
 // Compile and run:
 //   make test_tree
-//   ./test_tree
+//   ./test_tree N
 
 #include "pes.h"
 #include "tree.h"
