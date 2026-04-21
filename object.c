@@ -2,7 +2,7 @@
 //
 // Every piece of data (file contents, directory listings, commits) is stored
 // as an "object" named by its SHA-256 hash. Objects are stored underK
-// .pes/objects/XX/YYYYYY... where XX is the first two hex characters of the
+// .pes/objects/XX/YYYYYY... where XX is the first two hex characters of theJM
 // hash (directory sharding).
 //
 // PROVIDED functions: compute_hash, object_path, object_exists, hash_to_hex, hex_to_hash
